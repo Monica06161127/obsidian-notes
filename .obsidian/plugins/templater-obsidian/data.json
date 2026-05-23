@@ -1,0 +1,26 @@
+{
+  "command_list": [],
+  "templates_folder": "05-Templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "06-Daily",
+      "template": "05-Templates/Daily-Note-模板-Templater.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "allowed_functions": [],
+  "timeout": 0,
+  "default_date_format": "YYYY-MM-DD",
+  "default_date": "YYYY-MM-DD",
+  "default_time_format": "HH:mm",
+  "javascript_snippets_folder": "",
+  "allow_system_commands": false,
+  "inline_scripts_commands": ""
+}
