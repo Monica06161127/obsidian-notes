@@ -198,11 +198,11 @@ Agent 之间的小额支付协议。HTTP 402 状态码 = "Payment Required"，X4
 
 ## 🤔 开放问题
 
-1. Pact 协议目前有哪些项目在实际使用？Cobo 自己的进展如何？
-2. MPC 钱包和传统多签（Multisig）钱包的本质区别是什么？
-3. 如果 Agent 的"幻觉"导致错误交易，损失谁承担？
-4. A2A 场景下，Agent 之间的信任如何建立？
-5. Hyperliquid 在这个生态中扮演什么角色？
+- Pact 协议目前有哪些项目在实际使用？（已知：Aave V3、Uniswap V3、Polymarket、Hyperliquid）
+- MPC 钱包和传统多签（Multisig）钱包的本质区别是什么？
+- 如果 Agent 的"幻觉"导致错误交易，损失谁承担？
+- A2A 场景下，Agent 之间的信任如何建立？
+- Hyperliquid 在这个生态中扮演什么角色？
 
 ---
 
